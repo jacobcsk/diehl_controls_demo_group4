@@ -1,0 +1,3 @@
+Test message from Szymon!
+Next line in file
+Another line in file
