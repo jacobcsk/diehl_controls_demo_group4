@@ -7,10 +7,10 @@
 
 
 
-		  |
-		  |
-		  |
-		  |
+          |
+          |
+          |
+          |
           |                                                                  * This is coal
           |                                                         ___+___    for the winter
           |                                                       _/     + \_
