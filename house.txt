@@ -12,8 +12,12 @@
           |                                 |
           |                                 |
           |                                 |
-          |                                 |                                 * This is coal
-          |                                 |                       ___+___    for the winter
+          |                                 |                                 
+          |                                 |                      
+	  |     +------+                    |
+          |     |      |                    |
+          |     |      |                    |                                 * This is coal
+          |     +------+                    |                       ___+___    for the winter
           |                                 |                     _/     + \_
           |                                 |                   _/   +       |
           |                                 |                 _/        +    \
